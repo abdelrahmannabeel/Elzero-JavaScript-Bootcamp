@@ -5,4 +5,4 @@ let arr = mix
 console.log(arr);
 // Elzero
 
-console.log(mix.join("").match(/[a-zA-Z]/ig))
+console.log(mix.join("").match(/[a-zA-Z]/ig).join(""))
