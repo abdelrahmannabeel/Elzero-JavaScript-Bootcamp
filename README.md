@@ -1,4 +1,4 @@
-![JavaScript Bootcamp](https://elzero.org/js.png)
+![js](https://github.com/abdelrahmannabeel/Elzero-JavaScript-Bootcamp/assets/89255811/c13302d9-2aa1-4ab0-b686-5a301a3d0a18)
 
 ## JavaScript Bootcamp Content [ 188 Videos ]
 

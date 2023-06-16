@@ -6,3 +6,4 @@ let newArray = myArray
   .reduce((acc, curr) => acc + curr);
 console.log(newArray);
 // Elzero
+console.log([...myArray].join("").match(/[a-zA-Z]/ig).join(""))

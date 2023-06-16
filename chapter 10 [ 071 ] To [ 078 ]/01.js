@@ -4,3 +4,5 @@ let arr = mix
   .reduce((acc, curr) => acc + curr);
 console.log(arr);
 // Elzero
+
+console.log(mix.join("").match(/[a-zA-Z]/ig))
